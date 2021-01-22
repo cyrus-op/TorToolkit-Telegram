@@ -10,7 +10,7 @@ except:
         BOT_TOKEN = "1596550006:AAF2rOsZNjd1eWWoHyZo4HM0SRVBlFEHN9E"
         BASE_URL_OF_BOT = "http://t.me/torleechpro_bot"
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = [1156597097,-1001390893086]
+        ALD_USR = [1156597097,-1001266398622]
         
         # Time to wait before edit message
         EDIT_SLEEP_SECS = 40
